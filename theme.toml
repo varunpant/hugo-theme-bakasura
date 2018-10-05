@@ -1,0 +1,12 @@
+name = "Bakasura"
+license = "MIT"
+licenselink = "https://github.com/varunpant/hugo-theme-bakasura/blob/master/LICENSE.md"
+description = "A minimalistic and responsive theme for bloggers."
+homepage = "https://github.com/varunpant/hugo-theme-bakasura"
+tags = ["blog", "beautiful", "disqus", "rss", "syntax highlighting", "tags"]
+features = ["blog", "beautiful", "disqus", "rss", "syntax highlighting", "tags"]
+min_version = 0.20
+
+[author]
+  name = "varunpant"
+  homepage = "https://github.com/varunpant"
